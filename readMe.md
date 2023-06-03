@@ -1,39 +1,16 @@
-# README
+# pro-readme-gen
 
- 
+## Description
+I have created a command line application that generates a professional README.md file using only the command line. 
+This will help the user create a quick README going foward for any future use on projects, homework, ect. 
 
-
-  ## Description
-Professional readme gen.
-
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contribution](#contribution)
-- [Tests](#tests)
-- [Questions](#questions)
+- Table of Contents
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Demo](#demo)
 
 ## Installation
-Install inquirer.
+Required us to install node to create this project. 
 
-## Usage
-Work related.
-
-## License 
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-
-## LICENSE: 
-    This project is protected under a MIT license. 
-    https://choosealicense.com/licenses/mit
-    
-https://choosealicense.com/licenses/mit
-
-## Contributing
-none.
-
-## Tests
-Demo video.
-
-## Questions
-For additional questions, please contact josh.deino91@yahoo.com. To view additional projects, please visit my github [GitHub profile](https://github.com/jdeino).
+## Demo
+Here you will find the demo of how I was able to create this professional READEME. 
