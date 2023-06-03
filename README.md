@@ -15,6 +15,3 @@ Required us to install inquirer to create this project.
 ## Demo
 Here you will find the demo of how I was able to create this professional READEME. 
 [Demo]https://drive.google.com/file/d/16tcUJsNGJO96Eb_Rrmy1ZzU_lqFYm4d0/view
-
-
-Github Live Page - 
